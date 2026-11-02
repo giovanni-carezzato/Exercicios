@@ -1,2 +1,3 @@
-# Exercicios
-Exericicios que realizei para melhorar hard skills e conquistar mais conhecimento 
+# Exercícios
+
+Exercícios que realizei para aprimorar habilidades de lógica e sintaxe em C++.
